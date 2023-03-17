@@ -9,7 +9,6 @@ public class HelloServlet extends HttpServlet {
     private String message;
 
     public void init() {
-        message = "thanh dep trai";
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
@@ -28,6 +27,7 @@ public class HelloServlet extends HttpServlet {
                 "<a href=\"hello-servlet\">Hello Servlet</a>\n" +
                 "\n" +
                 "</body>\n" +
+                "đã sửa by sơn" +"123" +"thao dep gai"+"1234455" +
                 "</html>");
     }
 

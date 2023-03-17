@@ -28,7 +28,7 @@ public class HelloServlet extends HttpServlet {
                 "<a href=\"hello-servlet\">Hello Servlet</a>\n" +
                 "\n" +
                 "</body>\n" +
-                "đã sửa by sơn" +"123" +"thao dep gai"+
+                "đã sửa by sơn" +"123" +"thao dep gai"+ "thanh be de yeu khang xinh gai" +
                 "</html>");
     }
 
